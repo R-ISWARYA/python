@@ -1,9 +1,2 @@
-#include<iostream>
-int main(){
-int i,n;
-cin>>n;
-for(i=0;i<n;i++){
-cout<<"hello world\n";
-}
-return0;
-}
+for i in range(90):
+  pint("hello world")
